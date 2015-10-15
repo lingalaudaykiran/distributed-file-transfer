@@ -1,0 +1,2 @@
+-record(userinfo, {'_id', user_id, phone, name, status, languageId, profilePic}).
+-record(pend_data,{'_id',sender_id,binary,format,language_id,timestamp,userList,sent}).
